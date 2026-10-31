@@ -9,9 +9,10 @@ Assista ao vídeo detalhando o funcionamento da arquitetura, os fluxos de dados 
 ## 📸 Imagens do Projeto
 *Abaixo estão as capturas de tela do sistema em funcionamento:*
 
-![Dashboard Grafana](./Imagens/nome_da_imagem_do_grafana.png)
-![Fluxo Node-RED](./Imagens/nome_da_imagem_do_nodered.png)
-![Simulação Wokwi](./Imagens/nome_da_imagem_do_wokwi.png)
+![Dashboard Grafana](./Imagens/grafana.png)
+![Fluxo Node-RED](./Imagens/nodered.png)
+![Simulação Wokwi](./Imagens/Wokwi.png)
+![Telegram](./Imagens/telegram.png)
 
 *(Nota: Substitua os nomes dos arquivos acima pelos nomes exatos das imagens que você colocar dentro da pasta `/Imagens`)*
 
