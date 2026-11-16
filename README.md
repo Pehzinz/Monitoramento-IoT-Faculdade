@@ -14,7 +14,6 @@ Assista ao vídeo detalhando o funcionamento da arquitetura, os fluxos de dados 
 ![Simulação Wokwi](./Imagens/Wokwi)
 ![Telegram](./Imagens/telegram)
 
-*(Nota: Substitua os nomes dos arquivos acima pelos nomes exatos das imagens que você colocar dentro da pasta `/Imagens`)*
 
 ## 🛠️ Tecnologias e Arquitetura
 
